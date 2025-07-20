@@ -1,0 +1,30 @@
+#container {
+    border: 5px solid peru;
+    width: 600px;
+    height: 600px;
+    justify-self: center;
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    background-color: lightslategrey;
+}
+
+html {
+    background-color: teal;
+}
+
+h1 {
+    justify-self: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.square {
+    border: thin solid silver;
+    width: 100%;
+}
+
+.row {
+    /*  border: 1px dashed pink; */
+    display: flex;
+    height: 650px;
+}
