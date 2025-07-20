@@ -24,7 +24,6 @@ h1 {
 }
 
 .row {
-    /*  border: 1px dashed pink; */
     display: flex;
     height: 650px;
 }
